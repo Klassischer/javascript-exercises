@@ -18,7 +18,7 @@ const removeFromArray = function(array, ...element) {
         
     }
     else {
-        console.log(`${element} does not exist in the array`);
+        console.log(`${elementItem} does not exist in the array`);
       }
     }
     return array;
